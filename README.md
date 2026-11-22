@@ -1,3 +1,3 @@
 # FatihBBTV
 
-FatihBBTV uygulamasının sürüm dosyaları.
+FatihBBTV 
